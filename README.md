@@ -1,15 +1,16 @@
-# studymoon
+# Fresh project
 
-To install dependencies:
+Your new Fresh project is ready to go. You can follow the Fresh "Getting
+Started" guide here: https://fresh.deno.dev/docs/getting-started
 
-```bash
-bun install
+### Usage
+
+Make sure to install Deno: https://deno.land/manual/getting_started/installation
+
+Then start the project:
+
+```
+deno task start
 ```
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This will watch the project directory and restart as necessary.
